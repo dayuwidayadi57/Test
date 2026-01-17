@@ -14,4 +14,5 @@ func main() {
 	Logger("Hello World dari GoSmartPush v17.2!")
 	Logger("Sistem @dev_dayuwidayadi siap tempur!")
 	GetSystemStatus()
+	CheckNetwork()
 }
